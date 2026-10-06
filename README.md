@@ -1,8 +1,10 @@
 # CC5
-Flexbox / Grid Layout
+## Flexbox / Grid Layout
 
-A responsive multi-column layout can be created using Flexbox or CSS Grid.
+A **responsive multi-column webpage layout** created using modern CSS Flexbox or Grid techniques.
 
-Flexbox: Best for arranging elements in a single row or column with flexible sizing.
-CSS Grid: Ideal for structured layouts with multiple rows and columns.
-Responsive Design: Use media queries, flexible units, and wrapping to adapt the layout to different screen sizes.
+* **Multi-Column Layout** — Organizes content into structured columns.
+* **Responsive Design** — Adapts to different screen sizes.
+* **Flexible Alignment** — Provides consistent spacing and positioning.
+* **Mobile-Friendly** — Columns stack or adjust on smaller screens.
+
